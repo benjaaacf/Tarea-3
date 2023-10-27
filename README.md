@@ -5,7 +5,7 @@ Fernanda Cadíz 21.561.209-0
 
 Para ejecutar: ./tarea3
 Para Compilar: gcc main.c list.c map.c -o tarea3
-Clonar repositorio: git clon
+
 
 Funcionalidades
 Funcionando correctamente:
